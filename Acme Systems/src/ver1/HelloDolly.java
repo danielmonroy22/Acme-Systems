@@ -7,5 +7,10 @@ public class HelloDolly {
 		System.out.println("Hello Dolly from Eclipse");
 		System.out.println("Hello Dolly from Eclipse Again");
 	}
+	public static void whatFor() {
+	String Msg = "What for !";
+	System.out.println(Msg);
+}
+
 
 }
